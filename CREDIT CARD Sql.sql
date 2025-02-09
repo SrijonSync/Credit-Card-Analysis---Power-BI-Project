@@ -41,10 +41,7 @@ CREATE TABLE cc_detail (
 );
 
 
-COPY cc_detail
-FROM 'D:\My projects\Credit Card Power BI\credit_card.csv' 
-DELIMITER ',' 
-CSV HEADER;
+
 
 
 

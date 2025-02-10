@@ -1,29 +1,30 @@
 Credit Card Analysis - Power BI Project 📊💳
-Overview
+
+----Overview
 This Power BI project provides an in-depth analysis of credit card transactions, customer demographics, and spending behaviors. The dashboard enables stakeholders to understand revenue trends, customer segments, and key financial insights.
 
-Data Insights:
+----Data Insights:
 Quarterly Revenue and Transactions 📈
 Revenue remains stable across quarters, with minor fluctuations.
 Total transactions also exhibit consistency, peaking in Q3.
 
-Revenue by Expense Type 💸
+----Revenue by Expense Type 💸
 Top spending categories: Bills, Entertainment, and Fuel.
 Significant contributors: Travel and Food.
 
-Revenue by Education Level 🎓
+----Revenue by Education Level 🎓
 Highest revenue: Graduates, followed by High School graduates.
 Lower revenue: Individuals with Doctorate and Post-Graduate degrees.
 
-Revenue by Card Category 💳
+----Revenue by Card Category 💳
 Highest revenue: Blue cards (~46M), followed by Silver, Gold, and Platinum.
 High transaction value per user: Platinum cards.
 
-Transaction Type Usage 🏦
+----Transaction Type Usage 🏦
 Dominant: Swipe transactions (34.91M), followed by Chip (16.97M) and Online (3.44M).
 Lower volume: Online transactions.
 
-Revenue by Age Group 👥
+----Revenue by Age Group 👥
 Highest revenue: 40-50 age group (~10.76M), followed by 50-60 (8.68M).
 Least revenue: Younger groups (20-30).
 
@@ -45,12 +46,12 @@ Total Interest Earned: 7.84M
 Additional Dashboard Insights
 The project consists of two pages in the Power BI dashboard:
 
-Overview Dashboard: Provides a high-level summary of revenue trends, spending behaviors, and customer demographics.
+-----Overview Dashboard: Provides a high-level summary of revenue trends, spending behaviors, and customer demographics.
 Detailed Analysis Page: Offers in-depth insights into specific metrics, such as revenue trends by time period, customer segmentation, and transaction patterns.
 
 
 
-DAX Queries Used
+----DAX Queries Used
 Several DAX (Data Analysis Expressions) queries were implemented to enhance the analysis:
 
 ###############Age Group Classification

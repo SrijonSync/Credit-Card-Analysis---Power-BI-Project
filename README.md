@@ -109,16 +109,6 @@ PostgreSQL (Database connection for raw data processing)
 
 
 
-## Next Steps 
-Improve online transaction adoption to increase digital revenue.
-Target younger users with rewards to boost spending in the 20-30 age group.
-Customize card offerings for high-spending customer segments.
-How to Use This Project
-Open Power BI Desktop.
-Load the dataset into Power BI (via PostgreSQL or Excel source).
-Explore the different dashboards for insights.
-Use filters to analyze specific timeframes, customer segments, or transaction types.
 
-
-Author
-# Srijon Das
+## Author
+Srijon Das
